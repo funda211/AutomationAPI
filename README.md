@@ -52,7 +52,3 @@ This project uses the following dependencies:
 </dependencies>
 ```
 
-## Notes
-- Ensure that your internet connection is active since the tests interact with a live API.
-- The tests are designed for demonstration purposes and do not store persistent data.
-
